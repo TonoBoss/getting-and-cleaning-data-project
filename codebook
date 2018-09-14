@@ -1,3 +1,5 @@
+GETTING AND CLEANING DATA COURSE PROJECT CODE BOOK
+
 # STEP 1  Getting data
 -downloading zip file if it hasn't already been downloaded
 -unziping zip file containing data if data directory doesn't already exist
@@ -73,19 +75,12 @@ The measurements are classified in two domains:
 - Standard deviation of the time-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions.
 - Average time-domain body angular velocity in the X, Y and Z directions.
 - Standard deviation of the time-domain body angular velocity in the X, Y and Z directions.
-
 - Average time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions.
-
 - Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions.
-
 - Average and standard deviation of the time-domain magnitude of body acceleration.
-
 - Average and standard deviation of the time-domain magnitude of gravity acceleration.
-
 - Average and standard deviation of the time-domain magnitude of body acceleration jerk (derivation of the acceleration in time).
-
 - Average and standard deviation of the time-domain magnitude of body angular velocity.
-
 - Average and standard deviation of the time-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time).
 
 #### Frequency-domain signals
